@@ -29,4 +29,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anonymous777-ind&show_icons=true&locale=en" alt="anonymous777-ind" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anonymous777-ind&" alt="anonymous777-ind" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=anonymous777-ind&theme=dark)](https://git.io/streak-stats)
