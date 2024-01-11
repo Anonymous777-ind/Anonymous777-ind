@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Aayush Thakur</h1>
 <h3 align="center">A passionate Web/Java developer from India</h3>
 
-<img align=“right” alt=“coding” width=“400” src=“https://miro.medium.com/v2/resize:fit:1358/1*sonDcpAhLirjwtYNvt7RbA.gif”> </img>
+<img align=“right” width=“400” src=“https://i.pinimg.com/originals/bd/4e/d3/bd4ed327189c2a56695beb91cd534570.gif” alt=“Coding”></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anonymous777-ind&label=Profile%20views&color=0e75b6&style=flat" alt="anonymous777-ind" /> </p>
 
