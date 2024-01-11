@@ -1,7 +1,8 @@
+[MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif)
 <h1 align="center">Hi 👋, I'm Aayush Thakur</h1>
 <h3 align="center">A passionate Web/Java developer from India</h3>
 
-<img align=“right” alt=“coding” width=“400” src=“https://miro.medium.com/v2/resize:fit:1358/1*sonDcpAhLirjwtYNvt7RbA.gif” />
+<img align=“right” alt=“coding” width=“400” src=“https://miro.medium.com/v2/resize:fit:1358/1*sonDcpAhLirjwtYNvt7RbA.gif”> </img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anonymous777-ind&label=Profile%20views&color=0e75b6&style=flat" alt="anonymous777-ind" /> </p>
 
