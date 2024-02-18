@@ -1,4 +1,4 @@
-[MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif)
+![logo](https://github.com/Anonymous777-ind/Anonymous777-ind/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Aayush Thakur</h1>
 <h3 align="center">A passionate Web/Java developer from India</h3>
 
