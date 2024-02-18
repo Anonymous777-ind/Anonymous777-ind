@@ -1,8 +1,8 @@
 ![logo](https://github.com/Anonymous777-ind/Anonymous777-ind/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Aayush Thakur</h1>
-<h3 align="center">A passionate Web/Java developer from India</h3>
+<h3 align="center">A passionate Full Stack Web Developer from India</h3>
 
-<img align=“right” width=“400” src=“https://i.pinimg.com/originals/bd/4e/d3/bd4ed327189c2a56695beb91cd534570.gif” alt=“Coding”></img>
+<img align=“right” width=“400” src=“https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzdzbndsMmtodTR2d3hhcThza2Npb3J0aml1bzg4aWxnampsODJ0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zhYSVCirREeIZtONCI/giphy.gif” alt=“Coding”></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anonymous777-ind&label=Profile%20views&color=0e75b6&style=flat" alt="anonymous777-ind" /> </p>
 
