@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Aayush Thakur</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 
-<img align=“right” width=“400” src=“https://github.com/Anonymous777-ind/Anonymous777-ind/blob/main/coding.gif” alt=“Coding” />
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anonymous777-ind&label=Profile%20views&color=0e75b6&style=flat" alt="anonymous777-ind" /> </p>
 
 <p align="left"> <a href="https://twitter.com/1243aayush" target="blank"><img src="https://img.shields.io/twitter/follow/1243aayush?logo=twitter&style=for-the-badge" alt="1243aayush" /></a> </p>
