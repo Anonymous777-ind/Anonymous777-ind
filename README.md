@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/1243aayush" target="blank"><img src="https://img.shields.io/twitter/follow/1243aayush?logo=twitter&style=for-the-badge" alt="1243aayush" /></a> </p>
 
-- 🌱 I’m currently learning **Spring, Springboot, Hibernate, Nodejs, Express, MongoDB, React**
+- 🌱 I’m currently learning **Full Stack Web Development**
 
-- 💬 Ask me about **Core Java, Front End Web Development**
+- 💬 Ask me about **MEAN / MERN, Java**
 
 - 📫 How to reach me **ayush.thakur.1243@gmail.com**
 
